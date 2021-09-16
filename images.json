@@ -1,0 +1,15 @@
+[
+    {
+        "catagory": "ImpactDay",
+        "images": [
+            {
+                "name": "pubtrans",
+                "description": "乘坐公共交通"
+            },
+            {
+                "name": "nosmoking",
+                "description": "不吸烟"
+            }
+        ]
+    }
+]
